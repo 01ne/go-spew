@@ -72,7 +72,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/davecgh/go-spew/spew"
+	"github.com/01ne/go-spew/spew"
 )
 
 // formatterTest is used to describe a test to be performed against NewFormatter.
